@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\bin\Debug\netcoreapp3.1\WorkNimbi.exe
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\bin\Debug\netcoreapp3.1\WorkNimbi.deps.json
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\bin\Debug\netcoreapp3.1\WorkNimbi.runtimeconfig.json
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\bin\Debug\netcoreapp3.1\WorkNimbi.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\bin\Debug\netcoreapp3.1\WorkNimbi.dll
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\bin\Debug\netcoreapp3.1\WorkNimbi.pdb
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\obj\Debug\netcoreapp3.1\WorkNimbi.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\obj\Debug\netcoreapp3.1\WorkNimbi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\obj\Debug\netcoreapp3.1\WorkNimbi.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\obj\Debug\netcoreapp3.1\WorkNimbi.AssemblyInfo.cs
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\obj\Debug\netcoreapp3.1\WorkNimbi.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\obj\Debug\netcoreapp3.1\WorkNimbi.dll
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\obj\Debug\netcoreapp3.1\WorkNimbi.pdb
+C:\Users\rodri\source\repos\WorkNimbi\WorkNimbi\obj\Debug\netcoreapp3.1\WorkNimbi.genruntimeconfig.cache

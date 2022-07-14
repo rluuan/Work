@@ -1,0 +1,51 @@
+TN001
+Vulcabras        - 10897 - efecde51-c788-4acc-8cb6-a92e42901a04
+Grupo Brasanitas -  5448 - c3422104-1e62-45dd-ae65-e03f2a04fcc9
+Tishman          - 27704 - 5ac79217-b971-4051-8368-cc26e416eb57
+Bandeirantes     -  2856 - 7721c9db-53aa-4bf7-bb59-b20f87acf682
+	         - 25614 - c0272738-c6cf-4748-9fc1-8d32877debf0
+Doremus          -  4004 - fefa5b6e-1275-4f5a-b13d-020d053bea7a
+Loggi            - 16111 - 
+Qualicorp        - 25748 - 579554d5-4730-4f14-b6d2-d7649c68f1a4
+GRU Airport      -  4535 - 29dcde31-7720-4305-860b-07ac533a5140
+
+TN002
+Magnesita - 453 - 37283928-7858-46c5-95f4-e1d9e9ec8e80
+Vale S.A. - 371 - 03bc5052-307e-47eb-b682-cf7a8785327a
+
+
+TN003
+CSC Serviços         - 14487 - 9b7aea24-d88d-4162-aa8c-8aafce4e7373
+SEB do Brasil (Arno) -  2932 - 5d85e30d-b326-4687-b593-c16d42120eef
+Cruzeiro do Sul      - 17357 - fc538a9c-482f-4a6c-a1cb-784365d58a0a
+Ambev                - 26935 - bb5484c8-55e9-4c82-85e8-ca0b96636542
+Arno                 -  2932 - 5d85e30d-b326-4687-b593-c16d42120eef
+AGC Vidros           - 32053 - d5d37f1c-0eac-40bf-9eda-15140cdee43c
+BBM Logística        - 13040 - 3212a705-1eec-413c-9cda-4c5bed9309c8
+Grupo Maringá        - 24896 - d6ca8630-824b-4f43-847b-c3279c8d6e89
+Atlantica            - 16699 - 23ec60bf-75c8-4e5e-a315-a08e26f835fb
+Unimed POA           - 20366 - 5b28c87c-0918-459b-8fcd-cd7b2aaa1404
+Iguá                 -  5916 - 9f706000-8b64-42b0-b0f1-cc6e3531af08
+Madeira Madeira      -  8367 - 7b940c2d-9f57-4d6c-a7b4-1666392a1381
+Fast Ariam           - 14670 - c2dc36cf-9327-47eb-84a8-439bf8b1fe15
+VALE DO PARAN145055 (3b978807-eaa8-4275-9e2e-cc0f74c73bb8)
+
+
+TN004
+Giga Atacado       - 34935 - 9511501e-e7ff-481a-aa3c-d4c8e4483f03
+Vetorial           - 47953 - b2fea1f7-2101-4d9c-9af7-e0f5c0ca9e09
+Itinera Contrucoes - 25806 - a4c5830e-a9ab-4237-baf9-3fc0025edf54
+Nelson Wilians     - 40283 - df435068-8d29-4b94-9c69-511ca8e32f63
+Aryzta             - 23807 - 351310c2-5340-47e9-814a-7bd403b04003
+
+
+TN005
+
+
+
+TN006
+Embraed  -  3093 - 5217f43e-2406-4b40-9799-815b37015c66
+Copagaz  -  3410 - 
+SmartFit -  9728 -
+Asa      - 18232 -
+Petz     -       - PET CENTER CO459660 (1ed2fcef-3920-4ae8-904b-954a365121e3)
